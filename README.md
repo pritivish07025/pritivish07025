@@ -2,11 +2,11 @@
 
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Priti+Vishwakarma!;Full-Stack+%26+MERN+Developer;MERN STACK DEVELOPER +%26;AI ENTHUSIAST " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Priti+Vishwakarma!;Full-Stack+%26+MERN+Developer;%26+;" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Computer Science Student | Full-Stack & MERN Developer </b>
+  <b>Computer Science Student | Full-Stack & MERN Developer | AI/ML Enthusiast</b>
 </p>
 
 <!-- Header Badges / Quick Links -->
@@ -23,7 +23,7 @@
 ---
 
 ### 🌟 Executive Overview
-I'm a **Full-Stack & MERN Developer** and **Microsoft Learn Student Ambassador** passionate about building modern, high-performance web applications and exploring intelligent AI-powered solutions. My work bridges intuitive UI design with robust backend logic, leveraging modern frameworks like React, Node.js, Tailwind CSS, and Azure AI tools.
+I'm a **Full-Stack & MERN Developer** passionate about building modern, high-performance web applications and exploring intelligent AI-powered solutions. My work bridges intuitive UI design with robust backend logic, leveraging modern frameworks like React, Node.js, Tailwind CSS, and Azure AI tools.
 
 > *"The goal isn't just to write code, but to solve real-world problems with high-impact software."*
 
@@ -31,8 +31,7 @@ I'm a **Full-Stack & MERN Developer** and **Microsoft Learn Student Ambassador**
 
 ### 🎯 Current Focus
 - 🚀 **Full-Stack Engineering:** Building dynamic web apps using **MongoDB, Express.js, React, and Node.js (MERN)**.
-- 🧠 **AI Integration:** Exploring **Generative AI, LLMs, and Azure AI Services** for intelligent web experiences.
-- 🤝 **Community Leadership:** Empowering student developers through **Microsoft Learn Student Ambassador** initiatives.
+
 
 ---
 
@@ -43,7 +42,7 @@ I'm a **Full-Stack & MERN Developer** and **Microsoft Learn Student Ambassador**
 | 🌐 **Full-Stack / MERN Developer** | End-to-end web apps with clean UI/UX and RESTful backend architectures. |
 | 🚀 **Microsoft Learn Student Ambassador** | Tech community leadership, workshops, and cloud advocacy. |
 | 🎨 **Frontend Specialist** | Interactive interfaces with React, Tailwind CSS, GSAP, and Bootstrap. |
-| 🤖 **AI & Azure Explorer** | Leveraging Generative AI and cloud solutions for modern software applications. |
+| 🤖 **AI  Explorer** | Leveraging Generative AI solutions for modern software applications. |
 
 ---
 
@@ -92,7 +91,6 @@ I'm a **Full-Stack & MERN Developer** and **Microsoft Learn Student Ambassador**
 | 🎓 **Microsoft Student Ambassador** | Selected as MLSA to drive tech community engagement and cloud adoption. |
 | 🧩 **LeetCode Problem Solving** | Solved 150+ problems focusing on Data Structures & Algorithms. |
 | 💼 **MERN Stack Applications** | Developed scalable projects like Employee Management Systems with authentication. |
-| 🚀 **Hackathons & Bootcamps** | Participant in Elite Hack 1.0 & CipherSchools Vibe Coding with AI Bootcamp. |
 
 ---
 
