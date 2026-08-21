@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-  <b>Computer Science Student | Full-Stack & MERN Developer | AI/ML Enthusiast</b>
+  <b>Computer Science Student | Full-Stack & MERN Developer </b>
 </p>
 
 <!-- Header Badges / Quick Links -->
