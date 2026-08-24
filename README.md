@@ -68,49 +68,47 @@ I enjoy solving real-world problems through software development and continuousl
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=javascript,cpp,python" />
-
-<br/>
-
-### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
-
-<br/>
-
-### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-<br/>
+<table>
+<tr>
+<td align="center" width="140"><b>💻 Languages</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=javascript,cpp,python" /></td>
+</tr>
+<tr>
+<td align="center"><b>🎨 Frontend</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" /></td>
+</tr>
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/REST%20APIs-FF7F50?style=flat-square&labelColor=2B2B2B" />
-<img src="https://img.shields.io/badge/Error%20Handling-FF7F50?style=flat-square&labelColor=2B2B2B" />
-
-<br/><br/>
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-<br/>
-
-### 🤖 AI & Data
-<img src="https://skillicons.dev/icons?i=python" />
-<br/>
-<img src="https://img.shields.io/badge/Google%20Gemini%20API-FFF5E1?style=flat-square&labelColor=FF7F50" />
-<img src="https://img.shields.io/badge/AI%20Integration-FFF5E1?style=flat-square&labelColor=FF7F50" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></td>
+</tr>
+<tr>
+<td align="center"><b>🤖 AI & Data</b></td>
+<td align="center">
+<img src="https://img.shields.io/badge/Gemini%20API-FFF5E1?style=flat-square&labelColor=FF7F50" />
 <img src="https://img.shields.io/badge/Federated%20AI-FFF5E1?style=flat-square&labelColor=FF7F50" />
 <img src="https://img.shields.io/badge/Demand%20Forecasting-FFF5E1?style=flat-square&labelColor=FF7F50" />
 <img src="https://img.shields.io/badge/Recharts-FFF5E1?style=flat-square&labelColor=FF7F50" />
-
-<br/><br/>
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-
-<br/>
-
-### ☁️ Deployment & Hosting
-<img src="https://skillicons.dev/icons?i=netlify" />
-<br/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>🧰 Tools</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,postman,vscode" /></td>
+</tr>
+<tr>
+<td align="center"><b>☁️ Deploy</b></td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=netlify" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Render-FFF5E1?style=flat-square&labelColor=2B2B2B" />
+</td>
+</tr>
+</table>
 
 </div>
 
