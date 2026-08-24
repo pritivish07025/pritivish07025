@@ -2,130 +2,212 @@
 
 <!-- Typing SVG Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Priti+Vishwakarma!;Full-Stack+%26+MERN+Developer;%26+;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Priti+Vishwakarma!;Full-Stack+%26+MERN+Developer;AI+Integration+%26+Web+Development;Building+Real-World+Projects" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Computer Science Student | Full-Stack & MERN Developer | AI/ML Enthusiast</b>
+  <b>B.Tech CSE Student | Full-Stack & MERN Developer | AI/ML Enthusiast</b>
 </p>
 
-<!-- Header Badges / Quick Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/priti-vishwakarma-279118304/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:priti.vishwakarma311664@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://x.com/Pritivish07"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://codepen.io/Priti-Vishwakarma"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
-  
+  <a href="https://www.linkedin.com/in/priti-vishwakarma-279118304/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:priti.vishwakarma311664@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/Pritivish07">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://codepen.io/Priti-Vishwakarma">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-### 🌟 Executive Overview
-I'm a **Full-Stack & MERN Developer** passionate about building modern, high-performance web applications and exploring intelligent AI-powered solutions. My work bridges intuitive UI design with robust backend logic, leveraging modern frameworks like React, Node.js, Tailwind CSS, and Azure AI tools.
+## 👩‍💻 About Me
 
-> *"The goal isn't just to write code, but to solve real-world problems with high-impact software."*
+I'm a **B.Tech Computer Science student** and an aspiring **Software Development Engineer** passionate about building practical, scalable and user-focused applications.
+
+My primary focus is **Full-Stack Web Development**, with growing expertise in **AI integration and intelligent web applications**.
+
+I enjoy turning real-world problems into working software using modern technologies such as **React.js, Node.js, Express.js, REST APIs and Generative AI**.
+
+> 💡 *I believe in learning by building — every project is an opportunity to solve a real problem and improve my engineering skills.*
 
 ---
 
-### 🎯 Current Focus
-- 🚀 **Full-Stack Engineering:** Building dynamic web apps using **MongoDB, Express.js, React, and Node.js (MERN)**.
+## 🎯 Current Focus
 
+- 🚀 Building **Full-Stack MERN applications**
+- 🤖 Integrating **Generative AI APIs** into web applications
+- 🧠 Exploring **AI/ML concepts and Federated AI**
+- 📊 Working with **data visualization and demand forecasting**
+- 🔗 Building and consuming **REST APIs**
+- 💻 Strengthening **DSA and problem-solving skills**
+- 🎯 Preparing for **Software Development Engineer (SDE) roles**
 
 ---
 
-### 🏷️ My Roles & Expertise
+## 🏷️ Roles & Expertise
 
-| Role | Description |
+| Area | Expertise |
 | :--- | :--- |
-| 🌐 **Full-Stack / MERN Developer** | End-to-end web apps with clean UI/UX and RESTful backend architectures. |
-| 🚀 **Microsoft Learn Student Ambassador** | Tech community leadership, workshops, and cloud advocacy. |
-| 🎨 **Frontend Specialist** | Interactive interfaces with React, Tailwind CSS, GSAP, and Bootstrap. |
-| 🤖 **AI  Explorer** | Leveraging Generative AI solutions for modern software applications. |
+| 🌐 **Full-Stack Development** | Building end-to-end web applications using React, Node.js and Express.js |
+| ⚛️ **Frontend Development** | Responsive and interactive interfaces using React.js, JavaScript, HTML, CSS and Bootstrap |
+| ⚙️ **Backend Development** | REST APIs, API integration, server-side development and error handling |
+| 🤖 **AI Integration** | Integrating Google Gemini API and AI-powered features into web applications |
+| 🧠 **AI/ML Exploration** | Federated AI, demand forecasting and intelligent resource management |
+| 📊 **Data Visualization** | Interactive dashboards and charts using Recharts |
+| ☁️ **Deployment** | Deploying frontend and backend applications using Netlify and Render |
 
 ---
 
-### 🛠️ Technical Stack & Tools
+# 🛠️ Technical Skills
 
-#### 💻 Programming Languages & Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+## 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### ⚙️ Backend, Databases & Cloud
+---
+
+## 🎨 Frontend Development
+
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-Data_Visualization-8884D8?style=for-the-badge)
+
+---
+
+## ⚙️ Backend Development
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![API Integration](https://img.shields.io/badge/API_Integration-FF6F00?style=for-the-badge)
+
+---
+
+## 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-#### 🧰 Tools & Platforms
+---
+
+## 🤖 AI & Machine Learning
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-8E44AD?style=for-the-badge)
+![Federated AI](https://img.shields.io/badge/Federated_AI-2E7D32?style=for-the-badge)
+![Demand Forecasting](https://img.shields.io/badge/Demand_Forecasting-E67E22?style=for-the-badge)
+
+---
+
+## 🧰 Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🌟 Core Soft Skills
+## ☁️ Deployment & Hosting
 
-| Skill | Description |
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+---
+
+# 🚀 Featured Project
+
+## 🏥 HealthStock AI — Healthcare Supply Chain Platform
+
+An AI-powered healthcare resource and supply-chain management platform designed to improve visibility and decision-making across healthcare networks.
+
+### 🔹 Key Features
+
+- 📦 Real-time medicine stock visibility
+- 🛏️ Bed availability tracking
+- 👨‍⚕️ Medical personnel attendance monitoring
+- 📈 Demand forecasting
+- ⚠️ Early stock-out risk detection
+- 🔄 Cross-district resource redistribution recommendations
+- 🤖 AI-powered healthcare chatbot
+- 🔐 Federated AI architecture concept
+- 📊 Interactive healthcare analytics dashboard
+
+### 🔗 Live Demo
+
+👉 **https://healthstockai.netlify.app/**
+
+---
+
+# 🧠 Skills I'm Developing
+
+- Data Structures & Algorithms
+- Problem Solving
+- AI/ML Fundamentals
+- Generative AI
+- Prompt Engineering
+- System Design Fundamentals
+- Backend Architecture
+- API Design
+- Full-Stack Application Development
+
+---
+
+# 💡 Core Strengths
+
+| Strength | Description |
 | :--- | :--- |
-| 🔍 **Problem-First Approach** | Analytical mindset focused on data structures, algorithmic efficiency, and problem-solving. |
-| 🏗️ **UI/UX Aesthetics** | Strong eye for modern layout design, responsive web components, and smooth interactions. |
-| ⚡ **Rapid Adaptability** | Swiftly learning new tech stacks—from frontend frameworks to Generative AI tools. |
-| 📣 **Community & Leadership** | Mentoring peers and organizing tech sessions as a Student Ambassador. |
+| 🔍 **Problem Solving** | Breaking complex problems into smaller and practical solutions |
+| 🏗️ **Project-Based Learning** | Learning technologies by building real-world applications |
+| 🤖 **AI Exploration** | Experimenting with AI APIs and AI-powered application development |
+| 🌐 **Full-Stack Development** | Understanding both frontend and backend development |
+| 📊 **Analytical Thinking** | Working with data, dashboards and decision-support systems |
+| ⚡ **Continuous Learning** | Constantly improving technical and problem-solving skills |
 
 ---
 
-### 🏆 Achievements & Key Highlights
-
-| Achievement | Impact / Milestone |
-| :--- | :--- |
-| 🎓 **Microsoft Student Ambassador** | Selected as MLSA to drive tech community engagement and cloud adoption. |
-| 🧩 **LeetCode Problem Solving** | Solved 150+ problems focusing on Data Structures & Algorithms. |
-| 💼 **MERN Stack Applications** | Developed scalable projects like Employee Management Systems with authentication. |
-
----
-
-### 📊 GitHub Performance & Analytics
+# 📈 GitHub Statistics
 
 <div align="center">
 
-  <!-- GitHub Stats & Top Languages -->
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=pritivish07025&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritivish07025&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pritiv07025&show_icons=true&theme=tokyonight&hide_border=true" />
 
-  <br/><br/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritiv07025&layout=compact&theme=tokyonight&hide_border=true" />
 
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pritivish07025&theme=tokyonight&hide_border=true" />
+<br/><br/>
 
-  <br/><br/>
-
-  <!-- Profile Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=pritivish07025&theme=tokyonight&no-frame=true&margin-w=15" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pritiv07025&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-<div align="center">
+# 📚 Currently Learning
 
-  ### ✍️ Developer Insight
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-  <br/><br/>
-
-  <!-- Profile Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=pritivish07025&color=blueviolet&style=flat-square" alt="Profile Views" />
-
-  <p><i>Made with ❤️ by Priti Vishwakarma</i></p>
-
-</div>
+```text
+Full-Stack Development
+        ↓
+Advanced React.js
+        ↓
+Node.js & REST APIs
+        ↓
+AI API Integration
+        ↓
+Generative AI
+        ↓
+AI/ML Fundamentals
+        ↓
+DSA & Problem Solving
