@@ -69,29 +69,48 @@ I enjoy solving real-world problems through software development and continuousl
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=javascript,cpp,python&theme=light" />
+<img src="https://skillicons.dev/icons?i=javascript,cpp,python" />
+
+<br/>
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=light" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+
+<br/>
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=light" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<br/>
+<img src="https://img.shields.io/badge/REST%20APIs-FF7F50?style=flat-square&labelColor=2B2B2B" />
+<img src="https://img.shields.io/badge/Error%20Handling-FF7F50?style=flat-square&labelColor=2B2B2B" />
+
+<br/><br/>
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=light" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br/>
 
 ### 🤖 AI & Data
-<img src="https://skillicons.dev/icons?i=python&theme=light" />
+<img src="https://skillicons.dev/icons?i=python" />
+<br/>
+<img src="https://img.shields.io/badge/Google%20Gemini%20API-FFF5E1?style=flat-square&labelColor=FF7F50" />
+<img src="https://img.shields.io/badge/AI%20Integration-FFF5E1?style=flat-square&labelColor=FF7F50" />
+<img src="https://img.shields.io/badge/Federated%20AI-FFF5E1?style=flat-square&labelColor=FF7F50" />
+<img src="https://img.shields.io/badge/Demand%20Forecasting-FFF5E1?style=flat-square&labelColor=FF7F50" />
+<img src="https://img.shields.io/badge/Recharts-FFF5E1?style=flat-square&labelColor=FF7F50" />
 
-**Google Gemini API • AI Integration • Federated AI • Demand Forecasting • Recharts**
+<br/><br/>
 
 ### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+
+<br/>
 
 ### ☁️ Deployment & Hosting
-<img src="https://skillicons.dev/icons?i=netlify&theme=light" />
-
-**Render**
+<img src="https://skillicons.dev/icons?i=netlify" />
+<br/>
+<img src="https://img.shields.io/badge/Render-FFF5E1?style=flat-square&labelColor=2B2B2B" />
 
 </div>
 
